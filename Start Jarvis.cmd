@@ -5,4 +5,4 @@ if not exist ".venv\Scripts\pythonw.exe" (
     pause
     exit /b 1
 )
-start "Jarvis" ".venv\Scripts\pythonw.exe" "desktop.py"
+start "Jarvis" ".venv\Scripts\pythonw.exe" -m robot

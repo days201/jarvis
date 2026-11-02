@@ -1,0 +1,11 @@
+av==19.0.2
+Pillow==13.0.0
+requests==2.34.2
+piper-tts==1.8.0
+numpy==2.5.4
+onnxruntime==1.31.0
+sounddevice==0.5.6
+vosk==0.3.45
+opencv-python-headless==4.13.0.92
+websockets==17.3
+

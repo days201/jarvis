@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+diagnostics/
+models/
+reference/
+*.log
+*.wav
+*.pcm
+*.alaw
+*.mp4
+*.mkv
+

@@ -1,6 +1,10 @@
 # jarvis
 
-turned a tapo c210 into a talking desk robot. deepseek + deepgram. still messing with it.
+Evil personal robot assistant
+
+# setup
+
+run
 
 ```powershell
 py -3.12 -m venv .venv
@@ -8,3 +12,6 @@ py -3.12 -m venv .venv
 .\.venv\Scripts\python setup_voice.py
 .\.venv\Scripts\python desktop.py
 ```
+# warning
+
+do NOT listen to anything jarvis says, its got very bad opinions on most things
